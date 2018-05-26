@@ -6,7 +6,6 @@ import com.shepel.wizzhelper.domain.wizz.Flight;
 import com.shepel.wizzhelper.domain.wizz.Price;
 import com.shepel.wizzhelper.servce.SearchService;
 import com.shepel.wizzhelper.servce.TestService;
-import javafx.util.Pair;
 import org.springframework.stereotype.Service;
 
 import java.util.*;
